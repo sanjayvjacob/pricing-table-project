@@ -3,7 +3,7 @@ body {
 }
 
 .plan-title {
-  font-weight: bold; /* bold text*/
+  font-weight: bold;
   font-size: 24px;
   margin-bottom: 10px;
 
@@ -11,7 +11,7 @@ body {
 
 .plan-price {
   font-size: 48px;
-  font-weight: bold; /* bold text*/
+  font-weight: bold;
   margin-bottom: 10px;
 }
 
